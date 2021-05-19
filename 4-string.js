@@ -15,7 +15,7 @@ const template = `
 console.log(template);
 */
 
-
+/*
 //new Method
 const str = 'hello';
 
@@ -32,3 +32,4 @@ console.log(str.trimStart())
 
 console.log(str.padStart(10)) //point out min length and padding with space in start
 console.log(str.padEnd(10)) //point out min length and padding with space in end
+*/
