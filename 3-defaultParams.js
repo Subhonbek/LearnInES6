@@ -11,6 +11,5 @@ const GetDefaultA = defaultA => defaultA * 2;
 function sum(a = GetDefaultA(1), b = defaultB, c = GetDefaultA(a)) {
     return a + b + c;
 }
-
 console.log(sum());
 */
