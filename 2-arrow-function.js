@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*
 //standard function for JavaScript
 function sum(a, b) {
@@ -31,14 +30,13 @@ const person = {
     age: 20,
     notArrow: notArrow(), //output correct
     arrow: arrow(), //output empty because his have not context the dont create context we can use it
-    displey: function (){
+    display: function (){
         setTimeout(function (){
             console.log(this.age + ' ' + this.name);
         })
     }
 }*/
 
-=======
 /*
 //standard function for JavaScript
 function sum(a, b) {
@@ -71,11 +69,10 @@ const person = {
     age: 20,
     notArrow: notArrow(), //output correct
     arrow: arrow(), //output empty because his have not context the dont create context we can use it
-    displey: function (){
+    display: function (){
         setTimeout(function (){
             console.log(this.age + ' ' + this.name);
         })
     }
 }*/
 
->>>>>>> origin/master
